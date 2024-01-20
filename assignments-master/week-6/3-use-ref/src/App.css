@@ -1,0 +1,10 @@
+
+html {
+    scroll-behavior: smooth;
+}
+
+.inner-container {
+    position: absolute;
+    top: 1000%;
+    margin-bottom: 40px;
+}
